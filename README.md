@@ -1,5 +1,5 @@
 # Smartphone devices list
-Last sync is 13.08.2018
+Last sync is 03.09.2018
 
 | Brand | Model |
 |---|---|
