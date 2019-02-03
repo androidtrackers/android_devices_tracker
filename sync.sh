@@ -32,4 +32,4 @@ git diff | grep -P '^\+(?:(?!\+\+))|^-(?:(?!--))' | sed -n '/-/!p' | sed -n '/sy
 #Push
 git config --global user.email "$gitmail"; git config --global user.name "$gituser"
 git add README.md; git commit -m $today
-git push -q https://$GIT_OAUTH_TOKEN_XFU@github.com/yshalsager/android_devices_tracker.git HEAD:master
+git push -q https://$GIT_OAUTH_TOKEN_XFU@github.com/androidtrackers/android_devices_tracker.git HEAD:master
